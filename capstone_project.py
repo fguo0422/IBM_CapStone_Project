@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# # This notebook will be used for IBM Data Science capstone project
+<h1> This notebook will be used for IBM Data Science capstone project</h1>
 
 # In[2]:
 
